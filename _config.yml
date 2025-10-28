@@ -1,0 +1,5 @@
+
+theme: minima
+title: KNK
+description: "Resume powered by JSON -> README.md"
+markdown: kramdown
